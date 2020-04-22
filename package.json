@@ -1,0 +1,14 @@
+{
+  "name": "simple_pkce_flow",
+  "version": "1.0.0",
+  "description": "Sample application that does authorization code flow+PKCE with Okta",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
